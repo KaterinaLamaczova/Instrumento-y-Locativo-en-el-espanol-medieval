@@ -10,32 +10,32 @@ garganta;Instrumento no prot.;NTE/A
 abrigadura;Instrumento prot.;DURA
 adobío;Instrumento prot.;ÍO/ÍA
 armadura;Instrumento prot.;DURA
-armamento;Instrumento prot.;MENTO/A, MIENTO/A
+armamento;Instrumento prot.;MENTO/A MIENTO/A
 bastida;Instrumento prot.;IDO/A
-bastimento;Instrumento prot.;MENTO/A, MIENTO/A
+bastimento;Instrumento prot.;MENTO/A MIENTO/A
 cabezal;Instrumento prot.;AL
 calzado;Instrumento prot.;ADO/A
 candelero;Instrumento prot.;ERO/A
 cerradura;Instrumento prot.;DURA
 cobertura;Instrumento prot.;TURA
 estribera;Instrumento prot.;ERO/A
-guarnimiento;Instrumento prot.;MENTO/A, MIENTO/A
+guarnimiento;Instrumento prot.;MENTO/A MIENTO/A
 herradura;Instrumento prot.;DURA
 mercaduría;Instrumento prot.;DURÍA
 sombrero;Instrumento prot.;ERO/A
 tancadura;Instrumento prot.;DURA
 vestido;Instrumento prot.;IDO/A
 vestidura;Instrumento prot.;DURA
-vestimenta;Instrumento prot.;MENTO/A, MIENTO/A
+vestimenta;Instrumento prot.;MENTO/A MIENTO/A
 (arz)obispado;Locativo;ADO/A
 albergada;Locativo;ADO/A
 alberguería;Locativo;ERÍA
-alogamiento;Locativo;MENTO/A, MIENTO/A
+alogamiento;Locativo;MENTO/A MIENTO/A
 argentería;Locativo;ERÍA
-asentamiento;Locativo;MENTO/A, MIENTO/A
-asitiamiento;Locativo;MENTO/A, MIENTO/A
+asentamiento;Locativo;MENTO/A MIENTO/A
+asitiamiento;Locativo;MENTO/A MIENTO/A
 barzal;Locativo;AL
-bastimento;Locativo;MENTO/A, MIENTO/A
+bastimento;Locativo;MENTO/A MIENTO/A
 carnicería;Locativo;ERÍA
 carrera;Locativo;ERO/A
 celada;Locativo;ADO/A
@@ -43,14 +43,14 @@ continente;Locativo;NTE/A
 corredor;Locativo;DOR/A
 descendiente;Locativo;NTE/A
 emboscada;Locativo;ADO/A
-encerramiento;Locativo;MENTO/A, MIENTO/A
+encerramiento;Locativo;MENTO/A MIENTO/A
 entrada;Locativo;ADO/A
 escondedero;Locativo;ERO/A
 exida;Locativo;IDO/A
 habitación;Locativo;CIÓN
 habitáculo;Locativo;´CULO
 judería;Locativo;ERÍA
-juntamiento;Locativo;MENTO/A, MIENTO/A
+juntamiento;Locativo;MENTO/A MIENTO/A
 mercado;Locativo;ADO/A
 miradero;Locativo;DERO/A
 mirador;Locativo;DOR/A
@@ -65,7 +65,7 @@ población;Locativo;CIÓN
 poniente;Locativo;NTE/A
 posada;Locativo;ADO/A
 pretorio;Locativo;TORIO/A
-recaudamiento;Locativo;MENTO/A, MIENTO/A
+recaudamiento;Locativo;MENTO/A MIENTO/A
 robredal;Locativo;AL
 robredo;Locativo;EDO/A
 sagrario;Locativo;ARIO/A
@@ -76,13 +76,13 @@ sobrado;Locativo;ADO/A
 tremedal;Locativo;AL
 vallado;Locativo;ADO/A
 vestidero;Locativo;DERO/A
-alojamiento;Locativo;MENTO/A, MIENTO/A
+alojamiento;Locativo;MENTO/A MIENTO/A
 purgatorio;Locativo no prot.;TORIO/A
 adivinación;Medio;CIÓN
 alianza;Medio;ANZA
 almojarifazgo;Medio;AZGO
 arbitración;Medio;CIÓN
-casamiento;Medio;MENTO/A, MIENTO/A
+casamiento;Medio;MENTO/A MIENTO/A
 catadura;Medio;DURA
 celada;Medio;ADO/A
 confesión;Medio;SIÓN
@@ -91,22 +91,22 @@ consagración;Medio;CIÓN
 consulado;Medio;ADO/A
 creencia;Medio;NCIA
 ducado;Medio;ADO/A
-encantamiento;Medio;MENTO/A, MIENTO/A
-encartamiento;Medio;MENTO/A, MIENTO/A
-enterramiento;Medio;MENTO/A, MIENTO/A
-establecimiento;Medio;MENTO/A, MIENTO/A
+encantamiento;Medio;MENTO/A MIENTO/A
+encartamiento;Medio;MENTO/A MIENTO/A
+enterramiento;Medio;MENTO/A MIENTO/A
+establecimiento;Medio;MENTO/A MIENTO/A
 infantazgo;Medio;AZGO
 invocación;Medio;CIÓN
 legitimación;Medio;CIÓN
 mandadería;Medio;ERÍA
 mandado;Medio;ADO/A
-mandamiento;Medio;MENTO/A, MIENTO/A
-mantenimiento;Medio;MENTO/A, MIENTO/A
+mandamiento;Medio;MENTO/A MIENTO/A
+mantenimiento;Medio;MENTO/A MIENTO/A
 mensajería;Medio;ERÍA
 oración;Medio;CIÓN
 ordenación;Medio;CIÓN
-ordenamiento;Medio;MENTO/A, MIENTO/A
-otorgamiento;Medio;MENTO/A, MIENTO/A
+ordenamiento;Medio;MENTO/A MIENTO/A
+otorgamiento;Medio;MENTO/A MIENTO/A
 papazgo;Medio;AZGO
 pasaje;Medio;AJE
 pechera;Medio;ERO/A
@@ -118,14 +118,14 @@ protestación;Medio;CIÓN
 quitación;Medio;CIÓN
 recuaje;Medio;AJE
 remuneración;Medio;CIÓN
-requerimiento;Medio;MENTO/A, MIENTO/A
+requerimiento;Medio;MENTO/A MIENTO/A
 retenencia;Medio;NCIA
 romería;Medio;ÍO/ÍA
-seguramiento;Medio;MENTO/A, MIENTO/A
+seguramiento;Medio;MENTO/A MIENTO/A
 seguranza;Medio;ANZA
 seguridad;Medio;DAD, TAD
 suplicación;Medio;CIÓN
 tenencia;Medio;NCIA
-parlamento;Medio no prot.;MENTO/A, MIENTO/A
+parlamento;Medio no prot.;MENTO/A MIENTO/A
 poderío;Medio no prot.;ÍO/ÍA
 predicación;Medio no prot.;CIÓN
