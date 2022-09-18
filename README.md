@@ -5,6 +5,6 @@ En esta página se encuentran los materiales adicionales del póster titulado Ro
 que presentado en el XVIII Encuentro de morfólogos (29 y 30 de septiembre, Alcalá de Henares).
 Los materiales adicionales incluidos en este repositorio son:
 
-1) la bibliografía (Bibliografia.pdf),
-2) el listado de los derivados analizados junto con los sufijos y los roles semánticos asociados a ellos (Roles_semanticos_derivados_y_sufijos.cvs),
-3) el póster en PDF.
+1) La bibliografía (Bibliografia.pdf),
+2) El listado de los derivados analizados junto con los sufijos y los roles semánticos asociados a ellos (Roles_semanticos_derivados_y_sufijos.cvs),
+3) El póster en PDF.
